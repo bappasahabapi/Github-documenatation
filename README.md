@@ -1,6 +1,6 @@
-# Github-documenatation copyright by anis vai.
 
-# Git & GitHub Documentation
+
+## Git & GitHub Documentation
 
 ### [Lesson 2. Introduction to git and GitHub](https://youtu.be/ulTs4vqOzyo)
 
@@ -294,3 +294,5 @@ git configuration
 - https://www.tutorialspoint.com/what-is-merge-conflict-in-git-how-to-handle-merge-conflicts
 
 <br>
+
+###   copyright by anis vai.
