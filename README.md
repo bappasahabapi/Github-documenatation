@@ -1,8 +1,29 @@
 
 
-## Git & GitHub Documentation
+## Git & GitHub Documentation:
+```
+   There is a dreamy boy whose name is bappa saha.
 
-### [Lesson 2. Introduction to git and GitHub](https://youtu.be/ulTs4vqOzyo)
+```
+
+# ⚙ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐥𝐨𝐧𝐞 𝐫𝐮𝐥𝐞
+
+### Command these five steps to clone a git repository
+
+    1.  git clone --bare proHero-htpps/link
+    2.  cd (and go to that clone .git folder)
+    3.  git push --mirror my-htpps/link
+    4.  git remote -v
+    5.  git remote set-url origin my-htpps/link
+
+</a>
+
+# 𝐀𝐥𝐥 𝐫𝐢𝐠𝐡𝐭 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐛𝐲 𝐛𝐚𝐩𝐩𝐚 𝐬𝐚𝐡𝐚 | 𝐁𝐬𝐜 𝐢𝐧 𝐂𝐒𝐄 |𝐑𝐌𝐒𝐓𝐔
+
+
+
+
+### [Lesson 2. Introduction to git and GitHub]()
 
 1. git?
    - git is a version control software
