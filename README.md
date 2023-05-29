@@ -8,6 +8,7 @@
 #  ⚙ 𝐆𝐢𝐭𝐡𝐮𝐛 branch delete  𝐫𝐮𝐥𝐞 :
 
    local:git branch -d  Transport-Component-POST--3.2
+   
    remote:git push origin :Transport-C0mponent-3.2
 
 # ⚙ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐥𝐨𝐧𝐞 𝐫𝐮𝐥𝐞
